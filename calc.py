@@ -1,1 +1,2 @@
-print ('Simple calculator. Test example')
+# Simple calculator. Test example
+print ('Result = ...')
