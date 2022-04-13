@@ -1,4 +1,5 @@
 # Simple calculator. Test example
+# Author: @Vsevolod Demidov (fondad@gmail.com)
 
 a = 5
 b = 10
