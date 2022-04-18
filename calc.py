@@ -10,6 +10,8 @@ def calc(x,y,sign):
         return x + y
     if sign == '-':
         return x - y
+    else:
+        return "Unknown sign"
 
 z = calc(a,b,'+')
 
